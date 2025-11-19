@@ -1,5 +1,5 @@
 # Assignment-03-Ensemble-Methods-Comparison
-Project Overview
+Project Overview(Finance Industry Focus)
 
 This project applies ensemble learning methods to predict whether a company’s stock in the S&P 500 will close higher or lower on June 30, 2025. Using short-term market indicators from June 26 and June 27, the project compares three supervised learning approaches:
 
